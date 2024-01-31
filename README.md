@@ -1,7 +1,8 @@
 
-a lightweight container runtime coding by Python
+# a lightweight container runtime coding by Python
+# 开发版本: Python 3.12.1
 
-实现命令
+# 实现命令
 usage: main.py [-h] {run,ps,delete,exec} ...
 
 # run
@@ -39,10 +40,10 @@ python main.py ps
 
 
 
-# 有待实现
-镜像仓库管理
-dockerfile解析
+# 未完成
+1) 镜像仓库管理
+2) dockerfile解析
 
-开发版本: Python 3.12.1
+
 
 
