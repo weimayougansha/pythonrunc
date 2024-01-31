@@ -39,7 +39,7 @@ python main.py ps
 
 
 
-有待实现
+# 有待实现
 镜像仓库管理
 dockerfile解析
 
